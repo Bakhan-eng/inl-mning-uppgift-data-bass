@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BakhanInlämning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b472fc9aa9977b90a1c38f855a615764e6df4683")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7deb62abc2dadd4115b8fad928282499012f99e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BakhanInlämning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BakhanInlämning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
