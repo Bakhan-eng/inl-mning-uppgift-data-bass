@@ -21,6 +21,14 @@ public class ReadData
                         Console.WriteLine($"Author: {bookAuthor.Author}");
                     }
                 }
+
+                Console.WriteLine("Books on loan");
+
+                foreach(var book in books){
+                    if(book.Loan != null){
+                        Console.WriteLine($"Book: {book} is on loan until: {book.Loan.date}");
+                    }
+                }
             }
             else
             {
