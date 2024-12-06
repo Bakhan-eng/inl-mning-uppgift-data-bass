@@ -3,6 +3,8 @@
 namespace Bakhaninlämning{
     class Program{
         public static void Main(){
+
+            Seed.Run();
             
             while(true){
 
